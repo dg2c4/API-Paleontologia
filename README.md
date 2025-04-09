@@ -1,7 +1,7 @@
 # *API-Paleontología*
 
 <p align="center">
-  <img width="800" height="550" src="https://github.com/dg2c4/API-Paleontologia/blob/main/Assets/API-Paleontologia-Logo.png" alt="API-Zoologico-Data-Illustration">
+  <img width="750" height="550" src="https://github.com/dg2c4/API-Paleontologia/blob/main/Assets/API-Paleontologia-Logo.png" alt="API-Zoologico-Data-Illustration">
 </p>
 
 ## *Instalaciones requeridas:*
