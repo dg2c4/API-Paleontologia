@@ -59,6 +59,9 @@ Su función como desarrolladores back-end es construir una API que permita reali
 • Pruebas realizadas con Postman/Thunder de cada endpoint (demo en vivo).\
 • Evidencia de inserciones/modificaciones realizadas en la BD (demo en vivo).
 
+## *Documentación Proyecto*
+    https://docs.google.com/document/d/14flGP107stcuCoO9IPUI82YKyDwmuy_q6lILxZihXb0/edit?usp=sharing
+
 # *Systems engineering:*
 | User: | David Gutierrez Chaves |
 |------|--------|
