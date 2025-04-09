@@ -27,9 +27,9 @@
 
 ## *Estructura Del Proyecto*
 ```API-paleontology/
-└──node_modules/
-└──src/                         # Rutas del proyecto
-|   ├───models/
+└── node_modules/
+└── src/                         # Rutas del proyecto
+|   ├─── models/
 |   │   ├── fossil.js           # Modelo de fósil
 |   │   ├── museum.js           # Modelo de museo
 |   │   └── user.js             # Modelo de usuario
@@ -37,12 +37,12 @@
 |   │   ├── authRoutes.js       # Rutas de autenticación
 |   │   ├── validate_token.js   # Rutas de autenticación
 |   │   └── fossilRoutes.js     # Rutas de fósiles
-├───.env/                       # Variables de entorno
-├───.gitignore/                 # Archivos y directorios ignorados
-├───README.md/                  # README repositorio GitHub
-├───index.js/                   # Index del proyecto
-├───package-lock.json/          # Dependencias del proyecto
-└───package.json/               # Dependencias del proyecto
+├─── .env/                       # Variables de entorno
+├─── .gitignore/                 # Archivos y directorios ignorados
+├─── README.md/                  # README repositorio GitHub
+├─── index.js/                   # Index del proyecto
+├─── package-lock.json/          # Dependencias del proyecto
+└─── package.json/               # Dependencias del proyecto
 ```
 
 ## *Desarrollo Ejercicio*
