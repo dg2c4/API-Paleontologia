@@ -1,0 +1,50 @@
+*Instalaciones requeridas:*
+
+*MongoDB:*
+"""""""""""""""""""""
+npm i mongoose --save
+"""""""""""""""""""""
+
+*Nodemon Framework*
+"""""""""""""""""""""""
+npm i –D nodemon --save
+"""""""""""""""""""""""
+
+*Nodemon Alternativo*
+""""""""""""""""""""""""""""""
+npm install --save-dev nodemon
+""""""""""""""""""""""""""""""
+
+*Express:*
+""""""""""""""""""""
+npm i express --save
+""""""""""""""""""""
+
+*Note:* Para no exponer los datos de conexión 
+en cualquier archivo es mejor crear una 
+variable de entorno dentro de la misma 
+aplicación.
+"""""""""""""""""""
+npm i dotenv -–save
+"""""""""""""""""""
+
+En el archivo .env escribir lo siguiente:
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+MONGODB_URI = mongodb+srv://root:<password>@cluster0.gvdabc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Note: "Usar sus credenciales de MongoDB"
+- Lo que va después del = es la URI de conexión que 
+se copió anteriormente desde MongoDB Atlas.
+- Recordar cambiar el <password> por la clave que se 
+definió para el nuevo usuario en MongoDB Atlas, quitando incluso los < >.
+
+*Bcrypt:*
+"""""""""""""""""""
+npm i bcrypt --save
+"""""""""""""""""""
+
+*JWT JSON Web Token*
+"""""""""""""""""""
+npm i jsonwebtoken --save
+"""""""""""""""""""
+
