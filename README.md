@@ -35,8 +35,9 @@
 |   │   └── user.js              # Modelo de usuario
 |   ├───routes/
 |   │   ├── authRoutes.js        # Rutas de autenticación
-|   │   ├── validate_token.js    # Rutas de autenticación
-|   │   └── fossilRoutes.js      # Rutas de fósiles
+|   │   ├── fossil.js            # Rutas de fósiles 
+|   │   └── museum.js            # Rutas de museos
+|   │   └── validate_token.js    # Rutas de autenticación
 ├─── .env/                       # Variables de entorno
 ├─── .gitignore/                 # Archivos y directorios ignorados
 ├─── README.md/                  # README repositorio GitHub
