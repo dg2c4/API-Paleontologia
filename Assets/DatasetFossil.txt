@@ -1,0 +1,117 @@
+// Base de datos de Dinosaurios 
+{
+    "fosiles": [
+        {
+            "name": "T-rex",
+            "nombreCientifico": "Tyrannosaurus rex",
+            "era": "Cretacico",
+            "altura": "11-12 mtr",
+            "discoveryLocation": "Saskatchewan, Canadá",
+            "descripcion": "El Tyrannosaurus rex es una especie de dinosaurio depredador que vivió a finales del Cretácico."
+        },
+        {
+            "name": "Velociraptor",
+            "nombreCientifico": "Velociraptor mongoliensis",
+            "era": "Cretacico",
+            "altura": "0.5-1 mtr",
+            "discoveryLocation": "Mongolia",
+            "descripcion": "Pequeño dinosaurio carnívoro conocido por su inteligencia y velocidad."
+        },
+        {
+            "name": "Diplodocus",
+            "nombreCientifico": "Diplodocus carnegii",
+            "era": "Jurásico",
+            "altura": "5-6 mtr",
+            "discoveryLocation": "Wyoming, Estados Unidos",
+            "descripcion": "El Diplodocus era un dinosaurio saurópodo de cuello y cola extremadamente largos. Vivió hace unos 154-152 millones de años y era un herbívoro que se alimentaba de vegetación baja."
+        },
+        {
+            "name": "Stegosaurus",
+            "nombreCientifico": "Stegosaurus stenops",
+            "era": "Jurásico",
+            "altura": "3-4 mtr",
+            "discoveryLocation": "Colorado, EE.UU.",
+            "descripcion": "Herbívoro con placas en su espalda y espinas defensivas en la cola."
+        },
+        {
+            "name": "Triceratops",
+            "nombreCientifico": "Triceratops horridus",
+            "era": "Cretacico",
+            "altura": "3-4 mtr",
+            "discoveryLocation": "Montana, EE.UU.",
+            "descripcion": "Ceratopsiano herbívoro caracterizado por sus tres cuernos y collar óseo."
+        },
+        {
+            "name": "Spinosaurus",
+            "nombreCientifico": "Spinosaurus aegyptiacus",
+            "era": "Cretacico",
+            "altura": "12-15 mtr",
+            "discoveryLocation": "Egipto",
+            "descripcion": "El Spinosaurus era un dinosaurio carnívoro caracterizado por su distintiva vela dorsal."
+        },
+        {
+            "name": "Carcharodontosaurus",
+            "nombreCientifico": "Carcharodontosaurus saharicus",
+            "era": "Cretacico",
+            "altura": "13-15 mtr",
+            "discoveryLocation": "Norte de África",
+            "descripcion": "Un gran depredador que rivalizaba en tamaño con el Giganotosaurus."
+        },
+        {
+            "name": "Iguanodon",
+            "nombreCientifico": "Iguanodon bernissartensis",
+            "era": "Cretacico",
+            "altura": "5-10 mtr",
+            "discoveryLocation": "Bélgica",
+            "descripcion": "Herbívoro bípedo conocido por su pulgar en forma de espiga."
+        },
+        {
+            "name": "Ankylosaurus",
+            "nombreCientifico": "Ankylosaurus magniventris",
+            "era": "Cretácico",
+            "altura": "2.5 mtr",
+            "discoveryLocation": "Montana, Estados Unidos",
+            "descripcion": "El Ankylosaurus era un dinosaurio acorazado con una cola en forma de maza. Vivió hace unos 68-66 millones de años y era un herbívoro blindado contra depredadores."
+        },
+        {
+            "name": "Pachycephalosaurus",
+            "nombreCientifico": "Pachycephalosaurus wyomingensis",
+            "era": "Cretacico",
+            "altura": "2-3 mtr",
+            "discoveryLocation": "Wyoming, EE.UU.",
+            "descripcion": "Dinosaurio con un cráneo distintivo en forma de cúpula."
+        },
+        {
+            "name": "Brachiosaurus",
+            "nombreCientifico": "Brachiosaurus altithorax",
+            "era": "Jurásico",
+            "altura": "12-15 mtr",
+            "discoveryLocation": "Colorado, Estados Unidos",
+            "descripcion": "El Brachiosaurus era un dinosaurio saurópodo de cuello largo, con patas delanteras más largas que las traseras. Vivió hace unos 154-153 millones de años y se alimentaba de vegetación alta."
+        },
+        {
+            "name": "Allosaurus",
+            "nombreCientifico": "Allosaurus fragilis",
+            "era": "Jurásico",
+            "altura": "8-9 mtr",
+            "discoveryLocation": "Utah, Estados Unidos",
+            "descripcion": "El Allosaurus era un gran dinosaurio depredador, uno de los principales carnívoros del Jurásico. Vivió hace unos 155-145 millones de años."
+        },
+        {
+            "name": "Parasaurolophus",
+            "nombreCientifico": "Parasaurolophus walkeri",
+            "era": "Cretácico",
+            "altura": "4 mtr",
+            "discoveryLocation": "Alberta, Canadá",
+            "descripcion": "El Parasaurolophus era un dinosaurio herbívoro con una cresta craneal larga y hueca, posiblemente usada para comunicación. Vivió hace unos 76-73 millones de años."
+        },
+        {
+            "name": "Pteranodon",
+            "nombreCientifico": "Pteranodon longiceps",
+            "era": "Cretácico",
+            "altura": "1.8 mtr (en tierra)",
+            "discoveryLocation": "Kansas, Estados Unidos",
+            "descripcion": "El Pteranodon era un reptil volador (pterosaurio) con una envergadura de hasta 7 metros. Vivió hace unos 86-84 millones de años y se alimentaba de peces."
+        }
+    ]
+}

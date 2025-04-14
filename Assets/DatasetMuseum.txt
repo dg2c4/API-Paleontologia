@@ -1,0 +1,75 @@
+// Aquí hay un total de 10 registros de museos
+{
+  "museos": [
+    {
+      "nombre": "Museo de Historia Natural de Londres",
+      "ubicacion": "Reino Unido",
+      "descripcion": "Nacido para acoger parte de los esqueletos y fósiles del Museo Británico, en 1986 absorbió el Museo Geológico y en la actualidad su colección paleontológica es una de las más importantes. Además de albergar una gran colección de fósiles y reconstrucciones de dinosaurios y otras especies, es reconocido por sus avances tecnológicos en las exposiciones, que son especialmente populares entre los jóvenes."
+    },
+    {
+      "nombre": "Museo Field de Historia Natural de Chicago",
+      "ubicacion": "EE.UU.",
+      "descripcion": "Es uno de los mejores museos paleontológicos y de naturaleza del mundo, ya que en sus exposiciones permanentes contiene destacadas réplicas y piezas originales de cada uno de los grupos principales de dinosaurios, así como de murales que los acompañan. Una de sus principales atracciones es la Tyrannosaurus Sue, cuyo esqueleto es el más grande y más completo que se ha encontrado. Además, el museo también cuenta con un laboratorio de fósiles que el público puede ver a través de ventanas, en el que los paleontólogos preparan los restos fósiles para su estudio posterior."
+    },
+    {
+      "nombre": "Museo Nacional de Historia Natural Smithsonian",
+      "ubicacion": "Washington D.C., EE.UU.",
+      "descripcion": "Administrado por la Institución Smithsoniana, este museo alberga más de 140 millones de ítems de fauna, flora, minerales, rocas meteoritos y objetos culturales humanos. Entre sus piezas destacan los colosales esqueletos de Tyrannosaurus rex, Diplodocus y un mamut lanudo, que podemos ver en poses dramatizadas."
+    },
+    {
+      "nombre": "Museo Americano de Historia Natural de Nueva York",
+      "ubicacion": "EE.UU.",
+      "descripcion": "Es uno de los museos más famosos del mundo, así como uno de los más visitados, y su área paleontológica está considerada como una de las más innovadoras en cuanto a tecnología, ya que está en constante renovación. Su colección de fósiles de anfibios, reptiles y aves cuenta con más de 30 mil especímenes, la más amplia del mundo, igual que la de mamíferos fósiles, con más de 400 mil piezas."
+    },
+    {
+      "nombre": "Down House",
+      "ubicacion": "Downe, Reino Unido",
+      "descripcion": "Este edificio fue originalmente construido como casa de labranza en el siglo XVII, habitado por Charles Darwin en el siglo XIX, y funcionó como internado infantil femenino en el siglo XIX; desde 1929 es un museo. En él se encuentran exhibidos todos los experimentos y descubrimientos de Darwin, y alberga la explicación de buena parte de la historia de la humanidad."
+    },
+    {
+      "nombre": "Museo Canadiense de la Naturaleza",
+      "ubicacion": "Otawa, Canadá",
+      "descripcion": "Aunque es un museo de historia natural, puede ser considerado paleontológico, pues contiene una de las colecciones botánicas, zoológicas y paleontológicas más completas y destacadas, presentadas de manera creativa a los visitantes. Además, contiene un centro de investigaciones con laboratorios y salas de documentación e investigación que son referencia a nivel mundial."
+    },
+    {
+      "nombre": "Museo Real Tyrrell",
+      "ubicacion": "Alberta, Canadá",
+      "descripcion": "Especializado en paleontología, en este museo se exhiben los hallazgos de más de 3.900 millones de años de vida sobre el planeta. Es reconocido por su profundización e investigación en la materia y cuenta con cientos de fósiles de dinosaurio, una gran colección de fósiles de esquistos de Burgess y un jardín viviente del Cretácico con más de 600 especies de plantas, entre otros."
+    },
+    {
+      "nombre": "Museo de Paleontología Eliseo Palacios Aguilera",
+      "ubicacion": "Tuxtla Gutiérrez, México",
+      "descripcion": "En sus salas se exhiben más de 200 piezas fósiles pertenecientes a la zona de Chiapas, y con antigüedades que oscilan entre los 300 millones de años y los 10 mil años. Cuenta con la reconstrucción de un mamífero Megatherium en su sala principal, además de otros restos animales y vegetales, y alberga exhibiciones como la del Ámbar de Chiapas. El laboratorio en exhibición también permite al visitante apreciar el trabajo de los paleontólogos."
+    },
+    {
+      "nombre": "Museo del Institut Català de Paleontologia Miquel Crusafont",
+      "ubicacion": "Barcelona, España",
+      "descripcion": "Especializado en la paleontología de animales vertebrados, el Instituto Catalán de Paleontología Miquel Crusafont le concede gran importancia a la investigación de ese tipo de especies, aunque también estudia la evolución de los primates y el desarrollo de la geología y fauna del Neógeno. En 2018 recibió el premio HR Excellence in Research, lo que lo convierte en uno de los recintos de exhibición más importantes del mundo."
+    },
+    {
+      "nombre": "Museo Nacional de Dinosaurios",
+      "ubicacion": "Canberra, Australia",
+      "descripcion": "Es una de las colecciones permanentes más grandes de material fósil prehistórico de Australia y una de las atracciones turísticas más importantes de Canberra. En él se puede ver un jardín con esculturas realistas de dinosaurios, esqueletos completos, cráneos e incluso animatronics (robots) que permiten al visitante recorrer el pasado del planeta de manera muy entretenida."
+    },
+    {
+      "nombre": "Museo de Dinosaurios de Zigong",
+      "ubicacion": "China",
+      "descripcion": "La ciudad de Zigong es conocida como el 'Mundo de los Dinosaurios' debido a sus hallazgos fósiles, especialmente el primero, en el que se encontraron 8 mil piezas fósiles por accidente en la Formación Dashanpu. Poco después se inauguró este museo, ubicado cerca de esta zona. Su principal atracción son los 18 esqueletos completos, exhibidos junto a huellas y otros fósiles. Los visitantes también pueden acercarse hasta la Formación Dashanpu y observar cómo se llevan a cabo las excavaciones."
+    },
+    {
+      "nombre": "Museo de Historia Natural de Berlín",
+      "ubicacion": "Alemania",
+      "descripcion": "En el Museum für Naturkunde hay una gran colección de huesos recuperados en el siglo XX en Tanzania, albergando piezas increíbles, como uno de los fósiles más valiosos del mundo —un Archaeopteryx— y un ejemplar completo de Giraffatitan brancai, anteriormente atribuido a Brachiosaurus, que mide 13 metros de alto y más de 15 metros de largo."
+    },
+    {
+      "nombre": "Wyoming Dinosaur Center",
+      "ubicacion": "Thermopolis, EEUU",
+      "descripcion": "Dedicado a la educación, difusión e investigación de la paleontología, este centro alberga un Supersaurus de nada menos que 32 metros de altura, y el segundo esqueleto de Archaeopteryx después del ejemplar del museo de Berlín. Su característica más destacable, sin duda, es que permite a los visitantes adquirir experiencias geológicas y paleontológicas de primera mano gracias a actividades como excavaciones y encuentros con paleontólogos."
+    },
+    {
+      "nombre": "Museo Sudafricano Iziko",
+      "ubicacion": "Cape Town, Sudáfrica",
+      "descripcion": "Cuenta con especies prehistóricas de la región de Karoo, como el Euparkeria, un primo de los dinosaurios nativo de Sudáfrica, o el Jobaria, un saurópodo africano. También alberga un cráneo de Carcharodontosaurio, que superaba al T. Rex en tamaño y era uno de los principales depredadores del continente."
+    }
+  ]
+}
