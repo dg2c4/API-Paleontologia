@@ -17,3 +17,24 @@ router.get("/museums", verifyToken, (req, res) => {
 });
 
 module.exports = router;
+
+router.put("/museums/:id", verifyToken, async (req, res) => {
+    const { nombre, ubicacion, descripcion } = req.body;
+    const museum = await museumSchema.findByIdAndUpdate(
+        req.params.id,
+        {
+            nombre,
+            ubicacion,
+            descripcion
+        },
+        { new: true }
+    );
+    if (!museum) return res.status(404).json({ message: "Museo no encontrado" });
+    res.json(museum);
+});
+
+router.delete("/museums/:id", verifyToken, async (req, res) => {
+    const museum = await museumSchema.findByIdAndDelete(req.params.id);
+    if (!museum) return res.status(404).json({ message: "Museo no encontrado" });
+    res.json({ message: "Museo eliminado exitosamente" });
+});

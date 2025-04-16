@@ -17,3 +17,34 @@ router.get("/fossils", verifyToken, (req, res) => {
 });
 
 module.exports = router;
+
+router.put("/fossils/:id", verifyToken, async (req, res) => {
+    const { 
+        name, 
+        nombreCientifico, 
+        era, 
+        altura, 
+        discoveryLocation, 
+        descripcion 
+    } = req.body;
+    const fossil = await fossilSchema.findByIdAndUpdate(
+        req.params.id,
+        {
+            name,
+            nombreCientifico,
+            era,
+            altura,
+            discoveryLocation,
+            descripcion
+        },
+        { new: true }
+    );
+    if (!fossil) return res.status(404).json({ message: "Fósil no encontrado" });
+    res.json(fossil);
+});
+
+router.delete("/fossils/:id", verifyToken, async (req, res) => {
+    const fossil = await fossilSchema.findByIdAndDelete(req.params.id);
+    if (!fossil) return res.status(404).json({ message: "Fósil no encontrado" });
+    res.json({ message: "Fósil eliminado exitosamente" });
+});
